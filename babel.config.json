@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    ["module-resolver", {
+      "alias": {
+        "sodium-native": "./sodium.js",
+        "sodium-universal": "./sodium.js"
+      }
+    }]
+  ]
+}
