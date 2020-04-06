@@ -12,10 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "@geut/hypercore-promise": "^1.2.0",
-    "libsodium-wrappers": "^0.7.6",
+    "@geut/sodium-javascript-plus": "0.0.2",
     "pump": "^3.0.0",
-    "random-access-memory": "^3.1.1",
-    "sodium-javascript": "^0.5.6"
+    "random-access-memory": "^3.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

@@ -1,8 +1,4 @@
-const sodium = require('libsodium-wrappers')
-
 ;(async () => {
-  await sodium.ready
-  require('sodium-universal')
   await testHypercore()
 })()
 
